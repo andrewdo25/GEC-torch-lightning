@@ -16,6 +16,6 @@ pre-commit      # hooks for applying linters on commit
 rich            # beautiful text formatting in terminal
 pytest          # tests
 omegaconf>=2.3.0
-datasets==2.14.5
+datasets==5.0.1
 pydantic>=1.8.2
 tqdm>=4.62.3
